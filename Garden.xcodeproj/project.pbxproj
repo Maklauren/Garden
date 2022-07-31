@@ -13,6 +13,7 @@
 		23567A1228918B2E004308DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23567A1028918B2E004308DF /* Main.storyboard */; };
 		23567A1428918B30004308DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23567A1328918B30004308DF /* Assets.xcassets */; };
 		23567A1728918B30004308DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23567A1528918B30004308DF /* LaunchScreen.storyboard */; };
+		23D429422896C12F009EECEF /* FlowerRecognitionModelMaker 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 23D429412896C12F009EECEF /* FlowerRecognitionModelMaker 1.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		23567A1328918B30004308DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23567A1628918B30004308DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		23567A1828918B30004308DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23D429412896C12F009EECEF /* FlowerRecognitionModelMaker 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "FlowerRecognitionModelMaker 1.mlmodel"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				23567A1328918B30004308DF /* Assets.xcassets */,
 				23567A1528918B30004308DF /* LaunchScreen.storyboard */,
 				23567A1828918B30004308DF /* Info.plist */,
+				23D429412896C12F009EECEF /* FlowerRecognitionModelMaker 1.mlmodel */,
 			);
 			path = Garden;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				23567A0F28918B2E004308DF /* ViewController.swift in Sources */,
 				23567A0B28918B2E004308DF /* AppDelegate.swift in Sources */,
 				23567A0D28918B2E004308DF /* SceneDelegate.swift in Sources */,
+				23D429422896C12F009EECEF /* FlowerRecognitionModelMaker 1.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
